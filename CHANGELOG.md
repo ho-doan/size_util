@@ -1,3 +1,3 @@
 ## 0.0.1
 
-* TODO: release Flutter size convert from figma
+* release Flutter size convert from figma
